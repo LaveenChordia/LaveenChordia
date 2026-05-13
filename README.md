@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=LaveenChordia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=LaveenChordia&icon=1&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
