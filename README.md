@@ -1,21 +1,34 @@
-# 💫 About Me:
-🚀 Building products at the intersection of AI, collaboration, and real-world problem solving.<br>Currently working on projects around student collaboration networks, workflow automation, and intelligent systems that simplify how people connect, build, and grow together. I enjoy turning raw ideas into functional products — from hackathon prototypes to scalable platforms.<br>💡 Interests:<br>Artificial Intelligence & Automation<br>Product Development<br>Full-Stack Development<br>Startup & SaaS Systems<br>Community-Driven Platforms<br>🛠️ I like building:<br>AI-powered tools<br>Collaboration platforms<br>Workflow automation systems<br>Data-driven applications<br>Experimental side projects<br>📈 Always learning, iterating, and shipping.<br>Open to collaborations, hackathons, and impactful tech projects.
+# Hi, I'm Laveen 👋
 
+**Engineering Management (MS) @ Northwestern** · Computer engineer turned product builder · Pune → Evanston
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laveen.chordia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chordialaveen/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Laveen0608) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Laveenslife) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:work.laveen@gmail.com) 
+I build small products to test real questions. I go from customer problem to working prototype to measured result. I'm looking for **product management and client-facing consulting roles**.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LaveenChordia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LaveenChordia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LaveenChordia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LaveenChordia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[LinkedIn](https://www.linkedin.com/in/chordialaveen/) · [Email](mailto:work.laveen@gmail.com) · [YouTube](https://youtube.com/@Laveenslife)
 
 ---
 
+## 🔭 Featured work
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | The question | What I built |
+|---|---|---|
+| **[NU Connect](https://github.com/LaveenChordia/NUCONNECT)** | Do introductions between Northwestern students across schools turn into real collaboration? | A pilot platform: people post projects and offer skills, and contact details are swapped only when both sides agree. Sign-in with a Northwestern email, built-in success metrics. *Pilot in progress.* |
+| **[Blinkit vs. Kirana](https://github.com/LaveenChordia/blinkit-kirana-analysis)** | Is quick-commerce actually more expensive than the local store? | A price comparison of 60 everyday products. Average prices were nearly identical (₹122.65 vs ₹123.30), and 73% of items were cheaper or the same on Blinkit. The real answer depends on your basket. |
+| **[FraudGuard](https://github.com/LaveenChordia/FraudGuard)** | Can a fraud check be fast and readable for a non-expert? | A full-stack ML app (React, Flask, Node/Postgres) that returns a risk score with a plain-English recommended action. [Live demo](https://fraud-guard-zeta.vercel.app) |
+| **[DubWiz](https://github.com/LaveenChordia/DubWiz)** | Can English video be dubbed into Indian languages without voice artists? | A Whisper → mBART-50 → Silero TTS pipeline that dubs into Hindi, Marathi, Gujarati, Kannada and Telugu. |
+| **[MarketWise](https://github.com/LaveenChordia/MarketWisee)** | What usually happens to an Indian stock after a merger, strike or regulatory action? | Event-study "what-if" simulator (cumulative abnormal returns vs. NSE) plus news sentiment (FinBERT) on live Zerodha data. |
+| **[Annual Report Analyzer](https://github.com/LaveenChordia/mumbai-hacks)** | Can a company's annual report be screened for risk and growth signals in seconds? | A Flask API that reads report PDFs and scores sentiment (FinBERT), risk and growth signals, with caching and a batch pipeline. Built at Mumbai Hacks. |
+
+## 🧰 How I work
+
+**Product:** customer discovery, pilots and success metrics, Jira, PRDs/MRDs
+**Data:** Python, pandas, scikit-learn, Power BI
+**Build:** JavaScript/TypeScript, React, Flask, Supabase/Postgres, Vercel
+
+## 💼 Before Northwestern
+
+Full-stack dev intern (The Tech Clan) · Business development intern (Aergon Prestressing Systems) · Business operations & strategy (Roopsangam, family business)
+
+---
+
+<sub>Open to chatting about product, marketplaces, and AI tools. The fastest way to reach me is LinkedIn.</sub>
