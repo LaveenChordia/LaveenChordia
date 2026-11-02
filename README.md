@@ -1,6 +1,6 @@
 # Hi, I'm Laveen 👋
 
-**Engineering Management (MS) @ Northwestern** · Computer engineer turned product builder · Pune → Evanston
+**Engineering Management (MS) @ Northwestern** · Computer engineer turned product builder · Pune → Chicago
 
 I build small products to test real questions. I go from customer problem to working prototype to measured result. I'm looking for **product management and client-facing consulting roles**.
 
